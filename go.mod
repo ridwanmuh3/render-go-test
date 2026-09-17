@@ -1,3 +1,3 @@
-module render-go
+module render-go-test
 
 go 1.26.4
